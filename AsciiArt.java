@@ -12,6 +12,6 @@ public class AsciiArt {
       System.out.println("  o o");
       System.out.println(" =   =");
       System.out.println("  ---");
-      
+      //comment for lab 5
    }
 }
